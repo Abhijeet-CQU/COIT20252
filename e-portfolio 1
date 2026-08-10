@@ -1,1 +1,45 @@
+E-Portfolio 1 – Process Analysis
+Introduction
+Process analysis is a critical component of Business Process Management (BPM), since it aids organisations in knowing the working of their processes, recognising the weakness of their processes and improving upon them. There are four artefacts that have been chosen for inclusion in this e-portfolio and represent different facets of process analysis, such as process mining, process performance analysis, sustainability analysis, and artificial intelligence in BPM. These artefacts have all been written in 2025 or thereafter and represent how contemporary organisations utilise data to analyse their processes.
+
+Artefact 1 – Process Mining and Organisational Use
+Summary
+In this research paper, the authors have investigated the utilisation of process mining by the organisations after they implemented process mining. For conducting the research, the authors have used multi case study design which included six organizations with 31 interviews. Four different types of process mining users were found in this study; process mining influencers, process mining power users, process participants and strategic users. Process mining uses event log information for getting more objectivity about the actual process performance(Ammann et al., 2025, pp. 320–321).
+
+Justification
+The article was chosen because it helps to prove the idea that the process analysis is not only associated with technology, but also with the way of utilizing the analytical data. I especially found interesting the way how the article differentiated how the process should work and how it does. It helps to prove that the process mining may help with transparency, performance data, and the basis for decisions.
+
+Artefact 2 – Manufacturing Process Analysis
+Summary
+This paper provides a data-based approach for the analysis of manufacturing processes with the use of process mining. There are four important aspects that the framework takes into account – process, time, resources, and quality. These aspects have been considered through process discovery, process analysis and improvement in order to detect inefficiencies and bottlenecks. The experiment involved the use of a totally automated manufacturing and logistics setting(Lee, Shin and Lee, 2025, pp. 5642–5644).
+
+Justification
+The main reason for choosing this artefact is its applicability in terms of providing an opportunity to see a real-life application of process analysis. I really liked the way bottleneck and time analyses are used since they allow us to identify bottlenecks and the impact that they have on performance. The research suggests that using all types of process, time, resource and quality data in the analysis of processes leads to a better understanding of process problems.
+
+Artefact 3 – Sustainability-Oriented Process Analysis
+Summary
+SOPA is an introduced framework for the analysis and redesign of business processes with regards to sustainability. This framework integrates Life Cycle Assessment and Activity-Based Costing to evaluate the environmental effects of individual process activities. Business process simulation is used to assess potential alternatives in the process redesign. An example of how the framework works is illustrated in a case study by (Klessascheck, Weber and Pufahl(Klessascheck, Weber and Pufahl, 2025, pp. 492–493).
+
+Justification
+The reason why I chose this particular artefact was that it provided me with a deeper insight into process analysis in that besides the classic process analysis criteria – cost, time and quality – one can consider environmental impacts while analysing the process within a company. The way how simulation has been used was especially useful for me, since it allows one to test different process designs prior to their implementation into practice. The artefact states that “BPM lifecycle contains process analysis and evaluation for problems and improvements".
+
+Artefact 4 – Artificial Intelligence and Process Analysis
+Summary
+This paper highlights the link between BPM and AI, with special attention to the application of AI in the identification, discovery, modeling, analyzing and monitoring of processes. The authors define the goal of process analysis as identification of deficiencies that should be improved during the process redesign. In addition, the paper highlights the application of AI techniques for the process discovery and analysis, such as automatic process discovery from texts and other data(Fettke and Di Francescomarino, 2025, pp. 69–70).
+
+Justification
+The reasons why I chose this article include the fact that it reveals how new technologies affect the ways of analyzing business processes. I realized that process analysis can be qualitative and quantitative in its nature, allowing to reveal weaknesses and analyze their influence on the process performance. Also, it became clear for me that artificial intelligence can help in process discovery by acquiring process data from different data sources (Fettke and Di Francescomarino, 2025, pp. 69-70). This artifact is important for my learning because it combines old BPM ideas with new technologies.
+
+
+References
+
+Ammann, J., Lohoff, L., Wurm, B. and Hess, T. (2025), ‘How do Process Mining Users Act, Think, and Feel? An Explorative Study of Process Mining Use Patterns’, Business & Information Systems Engineering, 68, pp. 319–341. DOI: 10.1007/s12599-025-00931-9.
+
+Fettke, P. and Di Francescomarino, C. (2025), ‘Business Process Management and Artificial Intelligence: Literature Survey and Future Research’, KI – Künstliche Intelligenz, 39, pp. 67–79. DOI: 10.1007/s13218-025-00891-y.
+
+Klessascheck, F., Weber, I. and Pufahl, L. (2025), ‘SOPA: a framework for sustainability-oriented process analysis and re-design in business process management’, Information Systems and e-Business Management, 23, pp. 489–537. DOI: 10.1007/s10257-024-00695-x.
+
+Lee, Y., Shin, J. and Lee, W. (2025), ‘Manufacturing process analysis framework for process mining: case study of fully automated factory applications’, The International Journal of Advanced Manufacturing Technology, 136, pp. 5641–5664. DOI: 10.1007/s00170-025-15029-5.
+
+
 
